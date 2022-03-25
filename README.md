@@ -1,4 +1,4 @@
-<a href="#"><img align = "right" width="50%" height="auto" src="pic.jpg"/></a>
+<a href="#"><img align = "right" width="50%" height="auto" src="image.gif.gif"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bijoy Biswas</h1>
 <h3 align="center">I'm a passionate Data Scientist from Bangladesh.</h3>
