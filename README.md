@@ -1,4 +1,3 @@
-<a href="#"><img align = "right" width="50%" height="auto" src="https://github.com/biswasbijoy/biswasbijoy/blob/master/image.gif.gif"/></a>
 <h1 align="center">Hi 👋, I'm Bijoy Biswas</h1>
 <h3 align="center">A passionate Data Scientist from Bangladesh</h3>
 
