@@ -1,19 +1,17 @@
-<div style="display: flex; align-items: center;">
-<h1>Hi, I'm Bijoy Biswas</h1><p>&nbsp &nbsp</p>
-<p style="margin-right: 33%;"><img src="waving-wave1.gif" width="40" height="30" alt="Image" style = "margin-top: -10%"></p>
-  <img src="image.gif" width="400" height="300" alt="Image">
-</div>
-<h2 align="left" style = "margin-top: -12%">A passionate Data Analyst from Bangladesh</h2>
-
-<p align="left" style = "margin-top: 10%"> <img src="https://komarev.com/ghpvc/?username=biswasbijoy&label=Profile%20views&color=0e75b6&style=flat" alt="biswasbijoy" /> </p>
-
+<a href="#"><img align = "right" width="350" height="250" src="image.gif"/></a>
+<p>&nbsp</p>
+<h1 align="center">Hi, I'm Bijoy Biswas! <img src = "waving-wave1.gif" width = "40" height = "30" /></h1>
+<h3 align="center">A passionate Data Scientist from Bangladesh</h3>
+<p>&nbsp</p>
+<p align="center" style = "margin-top: 20%"> <img src="https://komarev.com/ghpvc/?username=biswasbijoy&label=Profile%20views&color=0e75b6&style=flat" alt="biswasbijoy" /> </p>
+<p>&nbsp</p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biswasbijoy" alt="biswasbijoy" /></a> </p>
 
 - 🔭 I’m currently working on [Machine Learning](https://github.com/biswasbijoy/Machine-Learning-Projects)
 
 - 🌱 I’m currently learning **Big Data Analysis**
 
-- 💬 Ask me about **Flutter, Competitive Programming, Python, Data Science**
+- 💬 Ask me about **Flutter, Competitive Programming, Python, and Data Science**
 
 - 📫 How to reach me **biswasbijoy414@gmail.com**
 
